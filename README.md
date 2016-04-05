@@ -1,2 +1,2 @@
 # Hola
-soy un poco cerrado xd
+print "Hola mundo"
